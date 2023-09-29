@@ -1,7 +1,5 @@
-String:
-37 question
-46 question
+for loop:
 
-list:
-32 question
-34 chunks  question
+22-question
+
+map - 3, 6
