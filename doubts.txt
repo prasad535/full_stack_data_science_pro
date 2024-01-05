@@ -1,5 +1,1 @@
-for loop:
-
-22-question
-
-map - 3, 6
+costructors - 8, 16, 
